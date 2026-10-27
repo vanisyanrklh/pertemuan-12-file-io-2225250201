@@ -1,0 +1,5 @@
+HASIL REKAP NILAI
+Jumlah data valid: 5
+Rata-rata: 83.40
+Nilai tertinggi: 92.0
+Nilai terendah: 74.0
